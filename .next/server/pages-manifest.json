@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/services/cybersecurity-data-protection": "pages/services/cybersecurity-data-protection.js",
+  "/services/qa-automation": "pages/services/qa-automation.js"
+}

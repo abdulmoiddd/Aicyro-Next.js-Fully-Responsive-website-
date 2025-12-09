@@ -1,0 +1,1049 @@
+{
+  "heroSection": {
+    "welcomeText": "WELCOME TO AICYRO SOLUTIONS",
+    "headingPrefix": "Revolutionizing",
+    "rotatingWords": ["Innovation", "Intelligence", "Security"],
+    "paragraph": "Aicyro Solutions builds smart, secure, and scalable software that transforms how businesses grow in the modern digital landscape.",
+    "buttonPrimary": {
+      "text": "GET STARTED",
+      "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7"
+    },
+    "buttonSecondary": {
+      "text": "EXPLORE OUR SERVICES",
+      "link": "/services"
+    }
+  },
+
+  "principlesSection": {
+    "tagline": "AICYRO SOLUTIONS",
+    "mainHeading": "Our Work Principles",
+    "subtext": "At <strong class=\"font-semibold text-white\">Aicyro Solutions</strong>, our work is guided by principles that shape every project we undertake. We believe in building not just solutions, but lasting value for our clients.",
+    "imageAlt": "A diverse team collaborating in a modern office",
+    "stats": [
+      {
+        "value": "250+",
+        "label": "COMPLETED PROJECT"
+      },
+      {
+        "value": "10",
+        "label": "YEARS EXPERIENCE"
+      }
+    ],
+    "principlesList": [
+      {
+        "title": "Quality Above All",
+        "description": "Every detail matters. We ensure each project meets the highest standards of excellence, with precision and reliability at the core."
+      },
+      {
+        "title": "Innovation at Heart",
+        "description": "Technology evolves rapidly — and so do we. Our culture of innovation allows us to deliver cutting-edge solutions that keep our clients ahead in a competitive world."
+      }
+    ]
+  },
+
+  "keyFeatureSection": {
+    "introTag": "KEY FEATURE",
+    "introHeading": "Revolutionize Your Business with Aicyro Solutions",
+    "introText": "At <strong class=\"font-semibold text-gray-400\">Aicyro Solutions</strong>, we empower businesses with <strong class=\"font-semibold text-indigo-400\">AI-driven innovation</strong>, robust <strong class=\"font-semibold text-indigo-400\">cybersecurity</strong>, and <strong class=\"font-semibold text-indigo-400\">next-gen digital solutions</strong>. From intelligent automation to seamless web and mobile experiences, our expertise ensures <strong class=\"font-semibold text-gray-400\">smarter operations</strong>, <strong class=\"font-semibold text-gray-400\">stronger security</strong>, and <strong class=\"font-semibold text-gray-400\">sustainable growth</strong>.",
+    "introButton": {
+      "text": "GET STARTED",
+      "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7"
+    },
+    "whyUsTag": "WHY US?",
+    "whyUsHeading": "Redefining <span class=\"text-indigo-400\">Security</span>",
+    "whyUsSubtext": "We believe trust is earned. Our commitment to <strong class=\"font-semibold text-gray-400\">honesty, transparency,</strong> and <strong class=\"font-semibold text-gray-400\">accountability</strong> defines the way we work with every client and partner.",
+    "principlesList": [
+      {
+        "title": "Clarify in Thought and Style",
+        "description": "Excellence begins with clarity of vision. We approach every project with a clear strategy, innovative mindset, and refined design that ensures simplicity, impact, and purpose.",
+        "icon": "clarity"
+      },
+      {
+        "title": "Perfection Beyond Time",
+        "description": "Perfection doesn't follow a 9-to-5 o'clock. We dedicate ourselves to constant refinement, dedication, and passion — pushing boundaries until excellence is achieved.",
+        "icon": "perfection"
+      }
+    ]
+  },
+
+  "weOfferSection": {
+    "tagline": "WHAT WE OFFER",
+    "mainHeading": "Where Innovation Drives Results",
+    "description": "Aicyro Solutions delivers end-to-end services that help startups and enterprises scale. SaaS development creates market-ready products.",
+    "features": [
+      {
+        "title": "SaaS development",
+        "description": "SaaS development at Aicyro Solutions helps startups launch MVPs in 30–45 days. We define scope through workshops, build in agile sprints, secure with VAPT testing, and deploy on cloud-first infrastructure.",
+        "icon": "code",
+        "button": {
+          "text": "BUILD YOUR SAAS WITH US",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "Cybersecurity & Data Protection",
+        "description": "Cybersecurity services at Aicyro Solutions protect systems before threats occur. We run vulnerability assessments, penetration testing, red teaming, and compliance audits. Our approach helps fintech, healthcare, SaaS, and enterprises pass audits and prevent breaches.",
+        "icon": "lock_globe",
+        "button": {
+          "text": "REQUEST A SECURITY AUDIT",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "AI Solutions",
+        "description": "AI solutions transform raw data into predictive insights. Our process starts with discovery workshops, moves into data preparation, and builds models trained on real business needs.",
+        "icon": "Bot",
+        "button": {
+          "text": "Schedule Consultation",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+
+      {
+        "title": "QA & Automation",
+        "description": "QA automation reduces bugs and improves software reliability. We begin with manual testing, build automation scripts, validate APIs, and run performance tests.",
+        "icon": "CircleCheckBig",
+        "button": {
+          "text": "Request A QA Demo",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+
+      {
+        "title": "Cloud & DevOps",
+        "description": "Cloud and DevOps solutions improve speed, reliability, and cost optimization. We migrate applications to AWS, Azure, or GCP, set up CI/CD pipelines, integrate security, and build scalable architecture",
+        "icon": "CloudUpload",
+        "button": {
+          "text": "Talk to our DEVOPS Experts ",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "Web Development",
+        "description": "We build secure and scalable platforms tailored to your business needs — from backend systems to modern websites.",
+        "icon": "LayoutTemplate",
+        "button": {
+          "text": "Lets Build Your Website",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "App Development",
+        "description": "Seamless Android and iOS apps designed for speed, usability, and long-term growth.",
+        "icon": "LayoutGrid",
+        "button": {
+          "text": "Launch Your app today",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "Blockchain",
+        "description": "Innovative blockchain solutions, from smart contracts to decentralized applications, built for the future.",
+        "icon": "ChartColumnIncreasing",
+        "button": {
+          "text": "Start Your Block Chain journey",
+          "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7",
+          "icon": "lightning"
+        }
+      }
+    ]
+  },
+
+  "exploreSection": {
+    "header": {
+      "title": "Exploring Digital Frontiers with Aicyro Solutions: Your Trusted Partner",
+      "subtitle": "Unlock endless digital possibilities with Aicyro Solutions — delivering innovation, security, and scalable growth for businesses worldwide."
+    },
+    "communicationBlock": {
+      "title": "Clear & Prompt Communication",
+      "description": "We ensure open, honest, and timely communication — keeping you updated at every stage of your project.",
+      "button": {
+        "text": "GET STARTED",
+        "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7"
+      },
+      "imageAlt": "Digital product screenshot"
+    },
+    "bookingBlock": {
+      "title": "Book a call with our team and explore how we can deliver secure and scalable solutions.",
+      "imageAlt": "Team members collaborating"
+    },
+    "supportBlock": {
+      "title": "Premium Support",
+      "phoneNumber": "+92 51 6122768",
+      "starRating": 5,
+      "description": "Contact Aicyro Solutions to discuss your project",
+      "button": {
+        "text": "CONTACT US",
+        "link": "/contact"
+      }
+    },
+    "ratingsBlock": {
+      "rating": "4.9 +",
+      "title": "Client Ratings",
+      "starRating": 5,
+      "description": "Trusted by businesses across industries, our clients consistently rate us highly for reliability, innovation, and results."
+    },
+    "scalableBlock": {
+      "title": "Scalable Solutions",
+      "description": "From startups to enterprises, our solutions grow with you — providing flexibility, efficiency, and long-term success.",
+      "button": {
+        "text": "CONTACT US",
+        "link": "/contact"
+      }
+    }
+  },
+
+  "testimonialSection": {
+    "tagline": "TESTIMONIAL",
+    "mainHeading": "Client Feedback & Reviews",
+    "subText": "See what our clients say about working with Aicyro Solutions. Real stories, real success.",
+    "testimonials": [
+      {
+        "name": "Jacky Tse, Owner, ",
+        "location": "JTune Automotive",
+        "avatar": "https://scontent.fisb17-1.fna.fbcdn.net/v/t39.30808-6/420603043_10161106532496271_460028786253290530_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aCXbzPCKjcQQ7kNvwFaFSn5&_nc_oc=AdliBJY2YXruzzzvVaays8Ss6LZKqWvJSAz6BIp7ge8fXsvczBb391RXYg5BBLSIR0LjjydiyA4Osb_EWtxFbRAP&_nc_zt=23&_nc_ht=scontent.fisb17-1.fna&_nc_gid=7qFK9koDY2SRvEMqYpblGA&oh=00_AfkJxQIejUYcHyxA56T71vug80daQNJgZhwrBPlF5bJXqw&oe=6938AF68",
+        "rating": 5,
+        "feedback": "Aicyro completely transformed operations at JTune Automotive. Their workshop management SaaS unified job cards, mechanic tracking, inventory, billing, and history into one powerful system. We reduced parts loss, improved efficiency, and gained full visibility over every job and profit margin. As a growing auto workshop, this software is now essential to our daily operations."
+      },
+      {
+        "name": "Mohammad Hossam, CTO",
+        "location": "Chief Technology Officer",
+        "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQELuBVk99CKhA/profile-displayphoto-scale_200_200/B4DZpbq410G8AY-/0/1762474562363?e=1766620800&v=beta&t=pzLCT0OzddivSpzj1y-LbgC0kGq8BOGwdu88TwLNSfo",
+        "rating": 5,
+        "feedback": "Our real estate agency handles sensitive data for high-net-worth individuals, and we were facing serious data security concerns. Aicyro secured our entire infrastructure and stopped ongoing threats. Their cyber security services, continuous monitoring, and dedicated support saved us from a major data breach. We now operate with full confidence knowing our information is safe."
+      },
+      {
+        "name": "James Carter",
+        "location": "London, UK",
+        "avatar": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+        "rating": 5,
+        "feedback": "Aicyro built a complete custom clinic appointment and patient record management system for our hospital in the USA. Everything from scheduling to secure medical records is now fully automated and easy to manage. The system drastically improved our efficiency, reduced manual errors, and enhanced patient care. It’s a powerful, secure healthcare software solution we truly trust."
+      },
+
+      {
+        "name": "Olivia Brown",
+        "location": "Sydney, Australia",
+        "avatar": "https://i.pravatar.cc/250?u=mail@ashallendesign.co.uk",
+        "rating": 5,
+        "feedback": "We had no idea how insecure our SaaS platform was until Aicyro performed a full cyber security audit. They identified over 100 vulnerabilities and strengthened our system from 53% to 81% security. Now we are fully confident that our data, admin portal, and customer information are protected from cyber threats. Aicyro is truly an expert in SaaS security and penetration testing."
+      }
+    ]
+  },
+
+  "projectsData": {
+    "project01": {
+      "id": 1,
+      "title": "Threat Detection & AI/ML",
+      "description": "Advanced AI-driven cybersecurity platform that provides real-time threat detection, analysis, and response capabilities for financial institutions. The system uses machine learning...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-01-threat-intelligence.jpg",
+      "details": {
+        "country": "Singapore",
+        "duration": "8 months",
+        "developers": "5 developers"
+      }
+    },
+    "project02": {
+      "id": 2,
+      "title": "Network Security",
+      "description": "Complete Zero Trust Network Access (ZTNA) solution implementing microsegmentation, identity verification, and continuous monitoring. The platform ensures secure access...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-02-zero-trust.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "12 months",
+        "developers": "8 developers"
+      }
+    },
+
+    "project03": {
+      "id": 3,
+      "title": "Blockchain Security",
+      "description": "Comprehensive Cloud Security Posture Management (CSPM) solution for multi-cloud environments. Provides continuous compliance monitoring, misconfiguration detection, and...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-03-blockchain.jpg",
+      "details": {
+        "country": "Germany",
+        "duration": "10 months",
+        "developers": "6 developers"
+      }
+    },
+    "project04": {
+      "id": 4,
+      "title": "Cloud Security",
+      "description": "Comprehensive Cloud Security Posture Management (CSPM) solution for multi-cloud environments. Provides continuous compliance monitoring, misconfiguration detection, and...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-04-cloud-security.jpg",
+      "details": {
+        "country": "Germany",
+        "duration": "10 months",
+        "developers": "6 developers"
+      }
+    },
+    "project05": {
+      "id": 5,
+      "title": "Threat Detection & AI/ML",
+      "description": "Machine learning-powered system for detecting Advanced Persistent Threats (APTs) using behavioral analysis and pattern recognition. The platform analyzes network traffic, system...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-05-apt-detection.jpg",
+      "details": {
+        "country": "United Kindom",
+        "duration": "14 months",
+        "developers": "10 developers"
+      }
+    },
+    "project06": {
+      "id": 6,
+      "title": "DevSecOps",
+      "description": "Integrated security testing and compliance validation platform for DevOps pipelines. Automates security scanning, vulnerability assessment, and compliance checking...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-06-devsecops.jpg",
+      "details": {
+        "country": "Canada",
+        "duration": "5 months",
+        "developers": "4 developers"
+      }
+    },
+    "project07": {
+      "id": 7,
+      "title": "IoT Security",
+      "description": "Comprehensive security management platform for IoT devices in smart city infrastructure. Provides device authentication, secure communication, firmware management, and threat...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-07-iot-security.jpg",
+      "details": {
+        "country": "Netherland",
+        "duration": "9 months",
+        "developers": "7 developers"
+      }
+    },
+    "project08": {
+      "id": 8,
+      "title": "Fraud Detection & AI/ML",
+      "description": "Real-time fraud detection system using machine learning to analyze transaction patterns and identify fraudulent activities. The platform processes millions of transactions daily with...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-08-fraud-detection.jpg",
+      "details": {
+        "country": "Hongkong",
+        "duration": "11 months",
+        "developers": "9 developers"
+      }
+    },
+    "project09": {
+      "id": 9,
+      "title": "Mobile Security",
+      "description": "Automated mobile application security testing platform for healthcare apps handling sensitive patient data. Provides comprehensive security assessment including static...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-09-mobile-security.jpg",
+      "details": {
+        "country": "Austrakia",
+        "duration": "4 months",
+        "developers": "3 developers"
+      }
+    },
+    "project10": {
+      "id": 10,
+      "title": "Identity Management",
+      "description": "Modern Identity and Access Management (IAM) platform for educational institutions with support for students, faculty, and staff. Implements single sign-on, multi-factor authentication...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-10-iam.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "7 months",
+        "developers": "5 developers"
+      }
+    },
+    "project11": {
+      "id": 11,
+      "title": "Network Security",
+      "description": "High-performance network traffic analysis system for detecting security threats and performance issues in telecom infrastructure. Processes petabytes of network data with real...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-03-blockchain.jpg",
+      "details": {
+        "country": "United Kingdom",
+        "duration": "14 months",
+        "developers": "10 developers"
+      }
+    },
+    "project12": {
+      "id": 12,
+      "title": "Vulnerability Assessment",
+      "description": "Comprehensive vulnerability management platform for industrial control systems and corporate IT infrastructure. Provides vulnerability scanning, risk assessment, and...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1555949963-aa79dcee981c.jpeg",
+      "details": {
+        "country": "South Korea",
+        "duration": "6 months",
+        "developers": "4 developers"
+      }
+    },
+    "project13": {
+      "id": 13,
+      "title": "Endpoint Security",
+      "description": "Next-generation Endpoint Detection and Response (EDR) solution providing real-time monitoring, threat hunting, and automated response capabilities for enterprise endpoints...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-10-iam.jpg",
+      "details": {
+        "country": "India",
+        "duration": "8 months",
+        "developers": "6 developers"
+      }
+    },
+    "project14": {
+      "id": 14,
+      "title": "Email Security",
+      "description": "Advanced email security gateway protecting against phishing, malware, and data loss. Implements machine learning-based threat detection, email encryption, and data loss prevention...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-03-blockchain.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "5 months",
+        "developers": "3 developers"
+      }
+    },
+    "project15": {
+      "id": 15,
+      "title": "Security Awareness",
+      "description": "Interactive cybersecurity awareness training platform designed to educate employees about security threats and best practices. Includes phishing simulation...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1555949963-aa79dcee981c.jpeg",
+      "details": {
+        "country": "Brazil",
+        "duration": "4 months",
+        "developers": "4 developers"
+      }
+    },
+    "project16": {
+      "id": 16,
+      "title": "OT/ICS Security",
+      "description": "Comprehensive security solution for Industrial Control Systems (ICS) and Operational Technology (OT) environments in critical infrastructure. Provides network monitoring...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1563986768609-322da13575f3-1.jpeg",
+      "details": {
+        "country": "United States",
+        "duration": "15 months",
+        "developers": "12 developers"
+      }
+    },
+    "project17": {
+      "id": 17,
+      "title": "API Security",
+      "description": "Comprehensive API security solution providing protection, monitoring, and testing capabilities for financial services APIs. Implements OAuth 2.0, rate limiting, input validation, and...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1550751827-4bd374c3f58b-1.jpeg",
+      "details": {
+        "country": "United Kindom",
+        "duration": "6 months",
+        "developers": "5 developers"
+      }
+    },
+    "project18": {
+      "id": 18,
+      "title": "Threat Intelligence",
+      "description": "Comprehensive threat intelligence platform aggregating data from multiple sources to provide actionable intelligence for security operations. Includes threat actor tracking...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1517077304055-6e89abbf09b0.jpeg",
+      "details": {
+        "country": "Israel",
+        "duration": "10 months",
+        "developers": "7 developers"
+      }
+    },
+    "project19": {
+      "id": 19,
+      "title": "Cloud Security",
+      "description": "Comprehensive security assessment and migration planning tool for enterprise cloud adoption. Evaluates existing infrastructure, identifies security gaps, and provides...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-01-threat-intelligence.jpg",
+      "details": {
+        "country": "Germany",
+        "duration": "3 months",
+        "developers": "4 developers"
+      }
+    },
+    "project20": {
+      "id": 20,
+      "title": "Identity Management",
+      "description": "Advanced biometric authentication system for border control and national security applications. Implements multiple biometric modalities including fingerprint, facial recognition...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1551808525-51a94da548ce-1.jpeg",
+      "details": {
+        "country": "United Arab Emirates",
+        "duration": "18 months",
+        "developers": "15 developers"
+      }
+    },
+    "project21": {
+      "id": 21,
+      "title": "Malware Protection",
+      "description": "Specialized ransomware detection and recovery solution for healthcare organizations. Provides real-time monitoring, behavioral analysis, and automated backup protection...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1504384764586-bb4cdc1707b0-1.jpeg",
+      "details": {
+        "country": "Canada",
+        "duration": "7 months",
+        "developers": "6 developers"
+      }
+    },
+    "project22": {
+      "id": 22,
+      "title": "SOAR",
+      "description": "Security Orchestration, Automation, and Response (SOAR) platform designed for managed security service providers. Automates incident response workflows, integrates with...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1519389950473-47ba0277781c-1.jpeg",
+      "details": {
+        "country": "Australia",
+        "duration": "9 months",
+        "developers": "8 developers"
+      }
+    },
+    "project23": {
+      "id": 23,
+      "title": "Application Security",
+      "description": "Integrated secure software development platform providing security testing, code analysis, and compliance validation throughout the development lifecycle. Helps development...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1464207687429-7505649dae38-1.jpeg",
+      "details": {
+        "country": "Sweden",
+        "duration": "8 months",
+        "developers": "6 developers"
+      }
+    },
+    "project24": {
+      "id": 24,
+      "title": "Blockchain Security",
+      "description": "Advanced cryptocurrency security analysis platform for digital asset management firms. Provides blockchain transaction monitoring, wallet security assessment, and regulatory...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1530435460869-d13625c69bbf-1.jpeg",
+      "details": {
+        "country": "Singapore",
+        "duration": "12 months",
+        "developers": "10 developers"
+      }
+    },
+    "project25": {
+      "id": 25,
+      "title": "Data Privacy",
+      "description": "Privacy-preserving data analytics platform enabling secure multi-party computation and differential privacy for sensitive research data. Allows organizations to collaborate on data...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1563013544-824ae1b704d3-1.jpeg",
+      "details": {
+        "country": "Switzerland",
+        "duration": "11 months",
+        "developers": "9 developers"
+      }
+    },
+    "project26": {
+      "id": 26,
+      "title": "Supply Chain Security",
+      "description": "Comprehensive supply chain security monitoring platform for automotive manufacturing. Provides supplier risk assessment, software bill of materials tracking, and third-party security...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/photo-1517077304055-6e89abbf09b0-1.jpeg",
+      "details": {
+        "country": "Japan",
+        "duration": "14 months",
+        "developers": "11 developers"
+      }
+    },
+    "project27": {
+      "id": 27,
+      "title": "Cryptography",
+      "description": "Implementation of quantum-safe cryptographic algorithms and protocols to prepare for the post-quantum era. Provides crypto-agility framework enabling smooth transition...",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-03-blockchain.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "16 months",
+        "developers": "8 developers"
+      }
+    },
+    "project28": {
+      "id": 28,
+      "title": "IntelliChat Pro",
+      "description": "Advanced conversational AI system with context-aware responses and multi-language support. Handles complex customer service scenarios with 98% accuracy.",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-1-C855HlzX.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "15 months",
+        "developers": "12 developers"
+      }
+    },
+    "project29": {
+      "id": 29,
+      "title": "PromptCraft Studio",
+      "description": "Professional prompt engineering platform for optimizing AI outputs. Features template library, A/B testing, and performance analytics.",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-2-C1rEUTf1.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "15 months",
+        "developers": "12 developers"
+      }
+    },
+    "project30": {
+      "id": 30,
+      "title": "DataMind Analytics",
+      "description": "AI-powered business intelligence dashboard with predictive analytics and automated report generation. Processes 10M+ data points daily.",
+      "imageSrc": "https://www.aicyro.com/wp-content/uploads/2025/09/project-3-DGcSOAAk.jpg",
+      "details": {
+        "country": "United States",
+        "duration": "15 months",
+        "developers": "12 developers"
+      }
+    }
+  },
+
+  "contactSection": {
+    "formContent": {
+      "heading": "Let's Build Something Together",
+      "subHeading": "Book a call with our team and explore how we can deliver secure and scalable solutions",
+      "submitButtonText": "Submit",
+      "successMessage": "Inquiry submitted successfully! We will be in touch shortly."
+    },
+    "infoContent": {
+      "mainHeading": "Contact Aicyro Solutions",
+      "subTitle": "AI, SaaS & Cybersecurity Partner",
+      "socialLinks": [
+        {
+          "icon": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61580451864408&mibextid=wwXIfr&mibextid=wwXIfr"
+        },
+        {
+          "icon": "linkedin",
+          "url": "https://www.linkedin.com/company/aicyro007/"
+        },
+        {
+          "icon": "instagram",
+          "url": "https://www.instagram.com/ai.cy.ro?igsh=anY5NGluanozdHJu"
+        }
+      ],
+      "contactDetails": [
+        {
+          "title": "HEAD OFFICE",
+          "icon": "location",
+          "lines": ["Islamabad, Punjab,", "Pakistan"]
+        },
+        {
+          "title": "EMAIL SUPPORT",
+          "icon": "mail",
+          "lines": ["info@aicyro.com"],
+          "link": "mailto:info@aicyro.com"
+        },
+        {
+          "title": "WORKING HOURS",
+          "icon": "clock",
+          "lines": ["Monday - Friday", "07am - 09pm"]
+        },
+        {
+          "title": "24/7 SUPPORT",
+          "icon": "headset",
+          "lines": ["Aicyro Solutions offers", "24/7 Support"]
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108879.79979069018!2d72.92984924999999!3d33.6156543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38dfbe29013c77d3%3A0xcb18129774640825!2sIslamabad%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1700684260000!5m2!1sen!2sus"
+    }
+  },
+
+  "inquiries": {
+    "-Nq8tY7oA-1jZ_m_B2fG": {
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "subject": "Inquiry about SaaS Development",
+      "message": "I'd like to discuss an MVP project.",
+      "status": "new",
+      "timestamp": 1700684260000
+    }
+  },
+
+  "Servicessubpages": {
+    "SaaSDevelopment": {
+      "Title": "SaaS Development",
+      "Meta Description": "SaaS development at Aicyro Solutions helps startups launch MVPs in 30–45 days. We define scope through workshops, build in agile sprints, secure with VAPT testing, and deploy on cloud-first infrastructure.",
+      "The Race Against Time": "In the world of startups, a great idea is only as good as its execution—and its timing. The window of opportunity to capture a market segment is often smaller than founders realize. Spending six months to a year perfecting a product behind closed doors is no longer a viable strategy. Today, the winners are those who launch fast, gather feedback, and iterate.\n\nThis is where the Minimum Viable Product (MVP) comes in. But how do you build an MVP fast without sacrificing quality or security?\n\nAt Aicyro Solutions, we have refined a SaaS development process designed specifically for speed and scalability. Our promise is simple: We help startups launch fully functional MVPs in 30–45 days. Here is how we turn your vision into reality in record time.",
+      "Strategic Discovery Workshops": "Speed creates chaos if you don't have a map. We don’t just start coding blindly; we start by defining the \"Must-Haves\" versus the \"Nice-to-Haves.\"\n\nThrough our intensive scoping workshops, we collaborate with your team to ruthlessly prioritize features. We identify the core value proposition of your product and strip away the bloat. This ensures that the 30-day timeline is spent building the features that will actually convince investors and acquire your first users.",
+      "Agile Sprints for Rapid Delivery": "Once the roadmap is set, we move into execution mode using Agile methodology.\n\nWe break the development process down into short, focused sprints. This allows us to release workable distinct features week by week. By maintaining a continuous feedback loop, we ensure that the product evolving on the screen matches the vision in your head. This iterative approach eliminates the \"big reveal\" disaster where a finished product doesn't match the requirements.",
+      "Uncompromised Security (VAPT)": "A common misconception is that \"fast\" means \"insecure.\" At Aicyro Solutions, we believe security must be baked in from day one, not patched on later.\n\nWe secure every MVP with rigorous Vulnerability Assessment and Penetration Testing (VAPT). Before your SaaS goes live, our team simulates real-world cyberattacks to identify weak points. We ensure your user data is encrypted and your architecture is bulletproof, giving you the confidence to onboard enterprise clients immediately.",
+      "Cloud-First Infrastructure": "You aren't just building for today; you are building for the day your product goes viral.\n\nWe deploy your SaaS on cloud-first infrastructure (leveraging modern tech stacks like Next.js, Firebase, or AWS). This ensures that your application is serverless, scalable, and reliable. Whether you have 10 users on launch day or 10,000 users a month later, our architecture expands effortlessly to handle the load without crashing.",
+      "Ready to Launch?": "The market won't wait for you to catch up. If you have a vision, you need a technical partner who understands the urgency of entrepreneurship.\n\nAt Aicyro Solutions, we bridge the gap between idea and execution. Let’s stop planning and start building."
+    },
+    "Cybersecurity": {
+      "Title": "Cybersecurity",
+      "Meta Description": "Cybersecurity services at Aicyro Solutions protect systems before threats occur. We run vulnerability assessments, penetration testing, red teaming, and compliance audits. Our approach helps fintech, healthcare, SaaS, and enterprises pass audits and prevent breaches.",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    },
+    "AISolutions": {
+      "Title": "AI Solutions",
+      "Meta Description": "AI solutions transform raw data into predictive insights. Our process starts with discovery workshops, moves into data preparation, and builds models trained on real business needs.",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    },
+    "QAAutomation": {
+      "Title": "QA & Automation",
+      "Meta Description": "QA automation reduces bugs and improves software reliability. We begin with manual testing, build automation scripts, validate APIs, and run performance tests.",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    },
+    "Cloud-DevOps": {
+      "Title": "Cloud & DevOps",
+      "Meta Description": "Cloud and DevOps solutions improve speed, reliability, and cost optimization. We migrate applications to AWS, Azure, or GCP, set up CI/CD pipelines, integrate security, and build scalable architecture",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    },
+    "Webdevelopment": {
+      "Title": "Web Development",
+      "Meta Description": "We build secure and scalable platforms tailored to your business needs — from backend systems to modern websites.",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    },
+    "AppDevelopment": {
+      "Title": "App Development",
+      "Meta Description": "Seamless Android and iOS apps designed for speed, usability, and long-term growth.",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    },
+    "Blockchain": {
+      "Title": "Blockchain",
+      "Meta Description": "Innovative blockchain solutions, from smart contracts to decentralized applications, built for the future.",
+      "The Race Against Time": "The data has to be entered. ",
+      "Strategic Discovery Workshops": "The data has to be entered. ",
+      "Agile Sprints for Rapid Delivery": "The data has to be entered. ",
+      "Uncompromised Security (VAPT)": "The data has to be entered. ",
+      "Cloud-First Infrastructure": "The data has to be entered.",
+      "Ready to Launch?": "The data has to be entered."
+    }
+  },
+  "Protfolio": {
+    "Network": {
+      "tag": "EXPERT SERVICES",
+      "title": "Network Security",
+      "overview": "Complete Zero Trust Network Access (ZTNA) solution implementing microsegmentation, identity verification, and continuous monitoring. The platform ensures secure access to corporate resources.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-02-zero-trust.jpg",
+      "meta": [
+        { "label": "Location", "value": "United States", "icon": "map" },
+        { "label": "Duration", "value": "12 months", "icon": "clock" },
+        { "label": "Team Size", "value": "8 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Identity and Access Management (IAM) integration",
+        "Network microsegmentation with dynamic policy enforcement",
+        "Real-time user behavior analytics and risk scoring",
+        "Device trust verification and compliance monitoring",
+        "Secure remote access gateway with encrypted tunnels"
+      ],
+      "deliverables": [
+        "ZTNA Gateway with policy enforcement engine",
+        "User and device identity management system",
+        "Real-time monitoring dashboard with threat analytics",
+        "Mobile applications for iOS and Android platforms",
+        "Integration APIs for existing security infrastructure"
+      ],
+      "techStack": [
+        "Golang",
+        "Vue.js",
+        "Kubernetes",
+        "Istio",
+        "Vault",
+        "Prometheus",
+        "OpenVPN",
+        "SAML"
+      ]
+    },
+    "Threat-Detection": {
+      "tag": "EXPERT SERVICES",
+      "title": "Threat Detection & AI/ML",
+      "overview": "Advanced AI-driven cybersecurity platform that provides real-time threat detection, analysis, and response capabilities for financial institutions. The system uses machine learning algorithms to identify anomalous patterns and potential security threats across multiple data sources.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-01-threat-intelligence.jpg",
+      "meta": [
+        { "label": "Location", "value": "Singapore", "icon": "map" },
+        { "label": "Duration", "value": "8 months", "icon": "clock" },
+        { "label": "Team Size", "value": "5 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Full-stack Admin Portal with real-time threat visualization and audit trail management",
+        "SIEM Plugin Builder with integrations for Splunk, IBM QRadar, and AWS GuardDuty",
+        "Multi-tenant architecture designed for MSSPs (Managed Security Service Providers)",
+        "MLOps Pipeline with automated model re-training on new threat patterns",
+        "Advanced correlation engine for cross-platform threat analysis"
+      ],
+      "deliverables": [
+        "React-based Admin UI with Django API Layer",
+        "ML threat detection engine with comprehensive model versioning",
+        "Multi-channel alerts via Slack, Email, and Webhooks",
+        "Dockerized deployment scalable on AWS ECS",
+        "Comprehensive API documentation and integration guides"
+      ],
+      "techStack": [
+        "React",
+        "Django",
+        "TensorFlow",
+        "AWSESE",
+        "Docker",
+        "Redis",
+        "PostgreSQL",
+        "Elasticsearch"
+      ]
+    },
+    "Blockchain": {
+      "tag": "EXPERT SERVICES",
+      "title": "Blockchain Security",
+      "overview": "Automated blockchain security audit platform for smart contracts and DeFi protocols. The system performs static analysis, dynamic testing, and formal verification to identify vulnerabilities before deployment.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-03-blockchain-710x533.jpg",
+      "meta": [
+        { "label": "Location", "value": "Switzerland", "icon": "map" },
+        { "label": "Duration", "value": "6 months", "icon": "clock" },
+        { "label": "Team Size", "value": "4 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Smart contract vulnerability scanner using multiple detection engines",
+        "Formal verification module for critical contract functions",
+        "Gas optimization recommendations and cost analysis",
+        "Integration with popular development frameworks (Hardhat, Truffle)",
+        "Compliance checking against security best practices"
+      ],
+      "deliverables": [
+        "Web-based audit dashboard with detailed vulnerability reports",
+        "CLI tool for automated security testing in CI/CD pipelines",
+        "Smart contract risk scoring algorithm",
+        "Integration plugins for VS Code and other IDEs",
+        "Comprehensive security recommendations database"
+      ],
+      "techStack": [
+        "Solidity",
+        "Node.js",
+        "React",
+        "Web3.js",
+        "Slither",
+        "Mythril",
+        "MongoDB",
+        "Express"
+      ]
+    },
+    "Cloud": {
+      "tag": "EXPERT SERVICES",
+      "title": "Cloud Security",
+      "overview": "Comprehensive Cloud Security Posture Management (CSPM) solution for multi-cloud environments. Provides continuous compliance monitoring, misconfiguration detection, and security policy enforcement across AWS, Azure, and GCP.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-04-cloud-security-710x533.jpg",
+      "meta": [
+        { "label": "Location", "value": "Germany", "icon": "map" },
+        { "label": "Duration", "value": "10 months", "icon": "clock" },
+        { "label": "Team Size", "value": "6 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Multi-cloud asset discovery and inventory management",
+        "Compliance framework mapping (SOC 2, ISO 27001, NIST)",
+        "Automated remediation workflows for common misconfigurations",
+        "Risk prioritization based on exploit potential and business impact",
+        "Integration with cloud-native security services"
+      ],
+      "deliverables": [
+        "Unified security dashboard for multi-cloud visibility",
+        "Policy-as-Code framework for security governance",
+        "Automated compliance reporting with audit trails",
+        "Risk assessment engine with contextual threat intelligence",
+        "Integration APIs for SIEM and ticketing systems"
+      ],
+      "techStack": [
+        "Python",
+        "Angular",
+        "Terraform",
+        "AWS CDK",
+        "Azure ARM",
+        "GCP Deployment Manager",
+        "Elasticsearch",
+        "Kibana"
+      ]
+    },
+    "threat2": {
+      "tag": "EXPERT SERVICES",
+      "title": "Threat Detection & AI/ML",
+      "overview": "Machine learning-powered system for detecting Advanced Persistent Threats (APTs) using behavioral analysis and pattern recognition. The platform analyzes network traffic, system logs, and user behavior to identify sophisticated attack campaigns.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-05-apt-detection-710x533.jpg",
+      "meta": [
+        { "label": "Location", "value": "United Kingdom", "icon": "map" },
+        { "label": "Duration", "value": "14 months", "icon": "clock" },
+        { "label": "Team Size", "value": "10 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Multi-layer detection engine with supervised and unsupervised ML models",
+        "Network traffic analysis with deep packet inspection",
+        "Endpoint behavior monitoring and anomaly detection",
+        "Attribution analysis and threat actor profiling",
+        "Integration with threat intelligence feeds and MITRE ATT&CK framework"
+      ],
+      "deliverables": [
+        "Real-time APT detection engine with low false-positive rates",
+        "Threat hunting platform with interactive investigation tools",
+        "Automated incident response playbooks",
+        "Threat intelligence correlation and enrichment system",
+        "Executive reporting dashboard with risk metrics"
+      ],
+      "techStack": [
+        "Python",
+        "Scikit-learn",
+        "Apache Kafka",
+        "Elasticsearch",
+        "React",
+        "D3.js",
+        "PostgreSQL",
+        "Docker"
+      ]
+    },
+    "DevSecOps": {
+      "tag": "EXPERT SERVICES",
+      "title": "Secure DevSecOps",
+      "overview": "Integrated security testing and compliance validation platform for DevOps pipelines. Automates security scanning, vulnerability assessment, and compliance checking throughout the software development lifecycle.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-06-devsecops-710x533.jpg",
+      "meta": [
+        { "label": "Location", "value": "Canada", "icon": "map" },
+        { "label": "Duration", "value": "5 months", "icon": "clock" },
+        { "label": "Team Size", "value": "4 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Static Application Security Testing (SAST) integration",
+        "Dynamic Application Security Testing (DAST) automation",
+        "Container and infrastructure security scanning",
+        "License compliance and dependency vulnerability checking",
+        "Security gate enforcement with policy-based controls"
+      ],
+      "deliverables": [
+        "CI/CD security pipeline with automated testing stages",
+        "Vulnerability management dashboard with remediation tracking",
+        "Policy engine for security gate enforcement",
+        "Integration with popular DevOps tools (Jenkins, GitLab, GitHub Actions)",
+        "Security metrics and compliance reporting"
+      ],
+      "techStack": [
+        "Jenkins",
+        "Docker",
+        "SonarQube",
+        "OWASP ZAP",
+        "Snyk",
+        "Terraform",
+        "Ansible",
+        "Prometheus"
+      ]
+    },
+    "IoT": {
+      "tag": "EXPERT SERVICES",
+      "title": "IoT Security",
+      "overview": "Comprehensive security management platform for IoT devices in smart city infrastructure. Provides device authentication, secure communication, firmware management, and threat monitoring for thousands of connected devices.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-07-iot-security-710x533.jpg",
+      "meta": [
+        { "label": "Location", "value": "Netherlands", "icon": "map" },
+        { "label": "Duration", "value": "9 months", "icon": "clock" },
+        { "label": "Team Size", "value": "7 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Device identity and certificate management at scale",
+        "Secure over-the-air (OTA) firmware update mechanism",
+        "Network segmentation and traffic monitoring for IoT devices",
+        "Anomaly detection for device behavior and communication patterns",
+        "Integration with city-wide security operations center"
+      ],
+      "deliverables": [
+        "IoT device management platform with security controls",
+        "Secure communication protocols and encryption libraries",
+        "Real-time monitoring dashboard for device health and security status",
+        "Automated threat response and device quarantine system",
+        "Compliance reporting for smart city security standards"
+      ],
+      "techStack": [
+        "Node.js",
+        "MQTT",
+        "CoAP",
+        "LoRaWAN",
+        "TLS/DTLS",
+        "MongoDB",
+        "InfluxDB",
+        "Grafana"
+      ]
+    },
+    "Fraud": {
+      "tag": "EXPERT SERVICES",
+      "title": "Fraud Detection & AI/ML",
+      "overview": "Real-time fraud detection system using machine learning to analyze transaction patterns and identify fraudulent activities. The platform processes millions of transactions daily with sub-second decision making.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-08-fraud-detection.jpg",
+      "meta": [
+        { "label": "Location", "value": "Hong Kong", "icon": "map" },
+        { "label": "Duration", "value": "11 months", "icon": "clock" },
+        { "label": "Team Size", "value": "9 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Real-time transaction scoring with ensemble ML models",
+        "Graph analytics for detecting fraud rings and money laundering",
+        "Integration with external data sources and blacklists",
+        "Adaptive learning system that evolves with new fraud patterns",
+        "Customer behavior profiling and risk assessment"
+      ],
+      "deliverables": [
+        "High-throughput fraud detection engine with real-time scoring",
+        "Investigation workbench for fraud analysts",
+        "Customer risk profiling and segmentation system",
+        "Automated case management and workflow engine",
+        "Regulatory compliance reporting for AML/KYC requirements"
+      ],
+      "techStack": [
+        "Apache Spark",
+        "Kafka",
+        "TensorFlow",
+        "Neo4j",
+        "Redis",
+        "Cassandra",
+        "React",
+        "Spring Boot"
+      ]
+    },
+    " ": {
+      "tag": "EXPERT SERVICES",
+      "title": "Mobile Security",
+      "overview": "Automated mobile application security testing platform for healthcare apps handling sensitive patient data. Provides comprehensive security assessment including static, dynamic, and interactive testing.",
+      "imageUrl": "https://www.aicyro.com/wp-content/uploads/2025/09/project-09-mobile-security-710x533.jpg",
+      "meta": [
+        { "label": "Location", "value": "Australia", "icon": "map" },
+        { "label": "Duration", "value": "4 months", "icon": "clock" },
+        { "label": "Team Size", "value": "3 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Static analysis of mobile application source code and binaries",
+        "Dynamic testing with runtime application security testing (RAST)",
+        "API security testing and authentication bypass detection",
+        "API security testing and authentication bypass detection",
+        "HIPAA compliance verification and privacy assessment"
+      ],
+      "deliverables": [
+        "Mobile app security testing framework for iOS and Android",
+        "Automated vulnerability scanner with OWASP MASVS compliance",
+        "Security assessment reports with remediation guidance",
+        "CI/CD integration for continuous security testing",
+        "Healthcare compliance validation tools"
+      ],
+      "techStack": [
+        "Java",
+        "Swift",
+        "Frida",
+        "MobSF",
+        "QARK",
+        "Android Studio",
+        "Xcode",
+        "Burp Suite"
+      ]
+    },
+    "last": {
+      "tag": "EXPERT SERVICES",
+      "title": "",
+      "overview": "",
+      "imageUrl": "",
+      "meta": [
+        { "label": "Location", "value": "", "icon": "map" },
+        { "label": "Duration", "value": "8 months", "icon": "clock" },
+        { "label": "Team Size", "value": "5 developers", "icon": "users" }
+      ],
+      "scope": ["", "", "", "", "", ""],
+      "deliverables": ["", "", "", "", ""],
+      "techStack": ["", "", "", "", "", "", "", "", "", ""]
+    }
+  }
+}
